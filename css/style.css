@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+}
+
+img {
+    width: 75%;
+    height: 75;
+    display: block;
+    margin:auto;
+}
+
+article {
+    width: 100%;
+    border: 1px solid lightblue;
+
+}
+
+.card_header {
+    border: 1px dotted lightgray;
+    text-align: center;
+    
+}
+
+/*
+    height: 100px;
+    padding-top: 5px;
+    margin-bottom: 0;
+*/
+
+
+.article_float {
+    float: left;
+    width: 30%;
+    margin: 1.5%;
+}
+
+.test {
+    clear: both;
+    max-width: 30%
+}
+
+.description {
+    text-align: justify;
+    padding: 0 2.5%;
+  
+}
+
+.available {
+    background-color: darkgray;
+    width: 100%;
+    color: yellow;
+/*    padding-left: 3px;???????*/
+}
+
+.padding {
+    padding: 0 5%;
+    
+}
+h4 {
+    margin: 0;
+    
+}
+
+.specs {
+    font-size: 10px;
+    font-weight: bold;
+}
+
+footer {
+    font-size: 8px;
+}
